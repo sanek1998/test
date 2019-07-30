@@ -12,5 +12,12 @@ namespace test
         {
             Console.WriteLine("Hello ");
         }
+
+   
+    }
+
+    public class MyClass
+    {
+
     }
 }
